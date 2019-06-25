@@ -22,7 +22,7 @@ Develop a full feed containing interactive posts in accordance to the following 
 - Find equivalent icons in place of icons present within the design
 - Tapping on an image in the feed should enlarge the image. The enlarged image can appear within a popup and does not need to transition from the feed. 
 - Tapping on the user profile picture and post icons does not need to go anywhere nor do anything. 
-- Added at least 15 posts with random photos onto the feed. 
+- Add at least 15 posts with random photos onto the feed. 
 - Style the image popup as you wish. Tapping outside the image should remove the image from view.
 
 ### BONUS:
