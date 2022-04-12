@@ -1,4 +1,4 @@
-# CapWay Interview Mobile Test
+# Winners Interview Mobile Test
 Referencing the designs below, create an iOS application that mimics a minimal amount and very basic functionality of the below screens.
 
 ![Screens](readme-assets/screen.gif)
@@ -26,7 +26,7 @@ Develop a full feed containing interactive posts in accordance to the following 
 - Style the image popup as you wish. Tapping outside the image should remove the image from view.
 
 ### BONUS:
-- Add a UIPanGesture to the image within the popup allowing you to drag it around. 
+- Add a PanGesture to the image within the popup allowing you to drag it around. 
 
 ## Submitting
-If you have any questions about the tech or design specifications or have submitted your application, please email dondrey@capway.co and cc: careers@capway.co.
+If you have any questions about the tech or design specifications or have submitted your application, please email: rami@nadsoft.net, cc: hasan.armoush@nadsoft.net
