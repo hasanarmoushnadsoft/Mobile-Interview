@@ -1,5 +1,5 @@
 # Winners Interview Mobile Test
-Referencing the designs below, create an iOS application that mimics a minimal amount and very basic functionality of the below screens.
+Referencing the designs below, create a mobile application that mimics a minimal amount and very basic functionality of the below screens.
 
 ![Screens](readme-assets/screen.gif)
 
@@ -22,7 +22,7 @@ Develop a full feed containing interactive posts in accordance to the following 
 - Find equivalent icons in place of icons present within the design
 - Tapping on an image in the feed should enlarge the image. The enlarged image can appear within a popup and does not need to transition from the feed. 
 - Tapping on the user profile picture and post icons does not need to go anywhere nor do anything. 
-- Using REST/XHR make a request to your choice of an API to pull photos/posts (e.g. News RSS feed or LOREM IPSUM like image generator). 
+- Using REST/XHR make a request to your choice of an API to pull photos/posts (e.g. News RSS feed or LOREM IPSUM like image generator) (https://jsonplaceholder.typicode.com). 
 - Style the image popup as you wish. Tapping outside the image should remove the image from view.
 
 ### BONUS:
